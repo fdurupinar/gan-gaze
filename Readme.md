@@ -9,6 +9,3 @@ Get the data folder at: https://github.molgen.mpg.de/sabrina-hoppe/everyday-eye-
 
 ### To generate new data with the model:
 > python cnn_gan.py false 
-
-# gan-gaze
-# gan-gaze
